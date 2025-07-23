@@ -386,6 +386,10 @@ body {
     color: rgb(70,190,237);
 }
 
+.steam:hover {
+    color: rgb(52, 47, 216);
+}
+
 
 
 /* Resume Window */
